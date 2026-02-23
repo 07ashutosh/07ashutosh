@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dzkcwvkvo/image/upload/v1757696556/giphy_ihv6sg.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itzvikash022&label=Profile%20views&color=0e75b6&style=flat" alt="itzvikash022" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=07ashutosh&label=Profile%20views&color=0e75b6&style=flat" alt="07ashutosh" /> </p>
 
 - 🔭 I’m currently working on **Trading App - An web app for trading like grow,angleone ,etc.**
 
