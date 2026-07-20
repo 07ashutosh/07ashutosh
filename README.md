@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=07ashutosh&label=Profile%20views&color=0e75b6&style=flat" alt="07ashutosh" /> </p>
 
-- 🔭 I’m currently working on **Trading App - An web app for trading like grow,angleone ,etc.**
+- 🔭 I’m currently working on **Freelanceing app**
 
 - 🌱 I’m currently learning **MERN stack**
 
